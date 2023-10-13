@@ -17,8 +17,8 @@ body{
 }
 
 .alto2{
-    width: 550px;
-    height: 650px;
+    width: 100%;
+    height: 690px;
 }
 
 .navbar-toggler {
@@ -39,6 +39,14 @@ body{
     width: 100% !important;
 }
 #nosotros .titulo{
+    width: 100%;
+    color: #000000;
+    text-align: center;
+}
+#precios{
+    width: 100%;
+}
+#precios .titulo{
     width: 100%;
     color: #000000;
     text-align: center;
