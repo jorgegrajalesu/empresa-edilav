@@ -35,6 +35,11 @@ body{
     color: #000000;
     text-align: center;
 }
+#nosostros .titulo{
+    width: 100%;
+    color: #000000;
+    text-align: center;
+}
 
 #rutas{
     background-color: #fff;
