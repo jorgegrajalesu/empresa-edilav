@@ -48,11 +48,11 @@ body{
     list-style: none;
 }
 
-#rutas{
+#mantenimiento{
     background-color: #fff;
 }
 
-#rutas .titulo{
+#mantenimiento .titulo{
     width: 100%;
     color: #000000;
     text-align: center;
