@@ -16,6 +16,11 @@ body{
     height: 620px;
 }
 
+.alto2{
+    width: 550px;
+    height: 650px;
+}
+
 .navbar-toggler {
     background-color: #b5b5b5 !important;
 }
